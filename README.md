@@ -2,6 +2,7 @@
 This project is a machine learning-based application that predicts the total score in an IPL match based on various match conditions and player statistics. The system leverages data preprocessing, feature encoding, and a deep learning model to make accurate predictions.
 
 Why Deep Learning?
+
 Humans often find it challenging to identify patterns from huge datasets, especially when considering multiple variables that affect outcomes. In the case of IPL score prediction, deep learning comes into play because it can efficiently learn from historical data and complex interactions between various factors like player performance, team dynamics, and match conditions.While traditional machine learning algorithms provide moderate accuracy, deep learning models excel in capturing intricate patterns and relationships within the data. These advanced techniques not only learn from how players and teams have performed against each other in the past but also take into account various attributes, such as the venue, batting, and bowling teams, striker, and bowler. This allows the model to deliver more precise predictions and handle the complexity of real-time IPL score prediction with higher accuracy.
 
 Tools Used
